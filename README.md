@@ -3,6 +3,9 @@
 This is a repro for a reservoir computing example.
 - Katharina Sophie Wolf
 
+## Try out with Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/studyingwolf/reservoir_computing/main)
+
 ## Installation
 1. Clone this repo
 ```bash
